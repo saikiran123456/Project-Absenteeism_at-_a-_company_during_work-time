@@ -14,12 +14,13 @@ In short, I like the entire pipeline which solves business problems using Softwa
 😎 Developing a Machine Learning Model to predict 'Absenteeism at a company during work time' with good accuracy!!
 
 ● Final outcome:
-- To develop a model that will predict the probability of an individual being excessively absent from work with visualizations key insights
+To develop a model that will predict the probability of an individual being excessively absent from work with visualizations key insights
 
 🛠 Technical explanation of how I solved this integration project.
+
 ● Data Preprocessing:
 - First, preprocessed the data. Devoted a significant amount of time to this step as it is a crucial part of every analytical task.
-- Analyzed and understood each of technical details related to the business case, done EDA using python. Pre-processed the data. Explained the data insights, outcomes, and experimental findings with teams, and led in meetings and discussions.
+Analyzed and understood each of technical details related to the business case, done EDA using python. Pre-processed the data. Explained the data insights, outcomes, and experimental findings with teams, and led in meetings and discussions.
 
 ● Machine Learning:
 - Incorporated the work did in the preprocessing part into the code necessary for making the next step. 
