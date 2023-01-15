@@ -19,8 +19,8 @@ To develop a model that will predict the probability of an individual being exce
 🛠 Technical explanation of how I solved this integration project.
 
 ● Data Preprocessing:
-> First, preprocessed the data. Devoted a significant amount of time to this step as it is a crucial part of every analytical task.
-> Analyzed and understood each of technical details related to the business case, done EDA using python. Pre-processed the data. Explained the data insights, outcomes, and experimental findings with teams, and led in meetings and discussions.
+> - First, preprocessed the data. Devoted a significant amount of time to this step as it is a crucial part of every analytical task.
+> - Analyzed and understood each of technical details related to the business case, done EDA using python. Pre-processed the data. Explained the data insights, outcomes, and experimental findings with teams, and led in meetings and discussions.
 
 ● Machine Learning:
 - Incorporated the work did in the preprocessing part into the code necessary for making the next step. 
