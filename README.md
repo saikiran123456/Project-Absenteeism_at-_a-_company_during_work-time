@@ -37,5 +37,5 @@ In short, I like the entire pipeline which solves business problems using Softwa
 
 ● Analyzed the predicted outputs in Tableau:
 > - Finally, utilized Tableau to analyse three separate dependencies between the inputs of model. 
-> - The visualizations obtained with this software helped with great deal while looking for insight!!
+> - The visualizations obtained with this software helped with great deal while looking for insight!
 
