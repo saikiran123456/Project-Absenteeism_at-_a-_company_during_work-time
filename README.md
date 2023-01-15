@@ -39,3 +39,13 @@ In short, I like the entire pipeline which solves business problems using Softwa
 > - Finally, utilized Tableau to analyse three separate dependencies between the inputs of model. 
 > - The visualizations obtained with this software helped with great deal while looking for insight!
 
+
+This is all about my Data Science End-To-End Project I hope You liked it and found it insightfull, you can try out in your projects as well!!
+
+Please feel free to connect with me on any doubts regarding the project I will be more than glad to assist you all!
+
+My LinkedIN: www.linkedin.com/in/saikiran-datascience
+
+I also write Blogs on Data Science, Machine Learning and Artificial Intelligence https://saikirandasari41.medium.com/
+
+Thanks and Have a wonderfull day :)
