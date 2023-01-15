@@ -9,7 +9,7 @@
 ✅ To solve any Business Problems - I like to Connect Python with various Sources like Databases and Visualization software like Tableau and PowerBI.
 In short, I like the entire pipeline which solves business problems using Software API Integrations.
 
-● Business Problem:
+● 1.Business Problem:
 - The problem is that the business environment of today is more competitive than it used to be.
 - This leads to increased pressure in the workplace.
 - Therefore, it is reasonable to expect that unachievable business goals and an elevated risk of unemployment can raise people's stress levels
